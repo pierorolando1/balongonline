@@ -15,7 +15,7 @@ export default function Home() {
       </Head>
 
       <main style={{ width: '100%', height: '100vh', padding: '20rem' }}>
-        <iframe style={{margin: 'auto'}} height="1280" width="720" className="embed-responsive-item" src='https://embedstream.me/real-madrid-vs-atalanta-bc-stream-3' allowFullScreen ></iframe>
+        <iframe style={{margin: 'auto'}} height="720" width="1280" className="embed-responsive-item" src='https://embedstream.me/real-madrid-vs-atalanta-bc-stream-3' allowFullScreen ></iframe>
       </main>
 
     </div>
