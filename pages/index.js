@@ -16,6 +16,16 @@ export default function Home() {
 
       <main style={{ width: '100%', height: '100vh', padding: '20rem' }}>
         <iframe style={{margin: 'auto'}} height="720" width="1280" className="embed-responsive-item" src='https://embedstream.me/real-madrid-vs-atalanta-bc-stream-3' allowFullScreen ></iframe>
+        
+        <div class="list-group">
+          <button type="button" class="list-group-item list-group-item-action active">
+            Real Madrid vs Atalanta
+          </button>
+          <a href="/games/real-madrid-vs-atalanta-bc-stream-1" type="button" class="list-group-item list-group-item-action">Link 1</a>
+          <a href="/games/real-madrid-vs-atalanta-bc-stream-2" type="button" class="list-group-item list-group-item-action">Link 2</a>
+          <a href="/games/real-madrid-vs-atalanta-bc-stream-3" type="button" class="list-group-item list-group-item-action">Link 3</a>
+        </div>
+      
       </main>
 
     </div>
