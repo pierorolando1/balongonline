@@ -8,52 +8,62 @@ export default function Home() {
 
   const [partidos, setPartidos] = useState(
     [
+
+
       {
-        "titulo": "Madrid Vs Porto",
+        "titulo": "Bayern vs Lazio",
         "links": [
           {
-            "link1" : "hola.adsda/DASdasd",
+            "link": "bayern-munich-vs-ss-lazio-stream-1",
           },
           {
-            "link2" : "hola.adsda/DASdasd",
+            "link": "bayern-munich-vs-ss-lazio-stream-2",
           },
           {
-            "link3" : "hola.adsda/DASdasd",
+            "link": "bayern-munich-vs-ss-lazio-stream-3",
           },
         ]
       },
 
+
+
+
       {
-        "titulo": "Madrid Vs Porto",
+        "titulo": "Chelsea vs Atletico de Madrid",
         "links": [
           {
-            "link1" : "hola.adsda/DASdasd",
+            "link": "chelsea-vs-atletico-de-madrid-stream-1",
           },
           {
-            "link2" : "hola.adsda/DASdasd",
+            "link": "chelsea-vs-atletico-de-madrid-stream-2",
           },
           {
-            "link3" : "hola.adsda/DASdasd",
+            "link": "chelsea-vs-atletico-de-madrid-stream-3",
           },
         ]
       },
 
+
+
+
       {
-        "titulo": "Madrid Vs Porto",
+        "titulo": "Torino vs Sassuolo",
         "links": [
           {
-            "link1" : "hola.adsda/DASdasd",
+            "link": "torino-fc-vs-sassuolo-stream-1",
           },
           {
-            "link2" : "hola.adsda/DASdasd",
+            "link": "torino-fc-vs-sassuolo-stream-2",
           },
           {
-            "link3" : "hola.adsda/DASdasd",
+            "link": "torino-fc-vs-sassuolo-stream-3",
           },
         ]
       },
 
-  ]
+
+    ]
+
   )
 
   return (
@@ -69,12 +79,31 @@ export default function Home() {
       </Head>
 
       <main style={{ width: '100%', height: '100vh', padding: '5%' }}>
-        {/* <iframe style={{margin: 'auto'}} height="720" width="1280" className="embed-responsive-item" src='https://embedstream.me/real-madrid-vs-atalanta-bc-stream-3' allowFullScreen ></iframe> */}
 
+        {
+          partidos.map(partido => {
+            return (
+              <div className="list-group">
+                <button type="button" className="list-group-item list-group-item-action active">
+                  {partido.titulo}
+                </button>
+                {
+                  partido.links.map((link, i) => {
+                    return (
+                      <>
+                        <Link href={ `${ '/games', link.link}` }><a type="button" className="list-group-item list-group-item-action">Link { i+1 }</a></Link>
+                      </>
+                    )
+                  })
+                }
+              </div>
+            )
+          })
+        }
 
-        <div className="list-group">
+        {/* <div className="list-group">
           <button type="button" className="list-group-item list-group-item-action active">
-          Chelsea vs Atletico de Madrid 
+            Chelsea vs Atletico de Madrid
           </button>
           <Link href="/games/chelsea-vs-atletico-de-madrid-stream-1"><a type="button" className="list-group-item list-group-item-action">Link 1</a></Link>
           <Link href="/games/chelsea-vs-atletico-de-madrid-stream-2"><a type="button" className="list-group-item list-group-item-action">Link 2</a></Link>
@@ -83,7 +112,7 @@ export default function Home() {
 
         <div class="list-group mt-4">
           <button type="button" class="list-group-item list-group-item-action active">
-          Bayern Munich vs Lazio 
+            Bayern Munich vs Lazio
           </button>
           <Link href="/games/bayern-munich-vs-ss-lazio-stream-1"><a type="button" className="list-group-item list-group-item-action">Link 1</a></Link>
           <Link href="/games/bayern-munich-vs-ss-lazio-stream-2"><a type="button" className="list-group-item list-group-item-action">Link 2</a></Link>
@@ -92,12 +121,12 @@ export default function Home() {
 
         <div class="list-group mt-4">
           <button type="button" class="list-group-item list-group-item-action active">
-          Torino FC vs Sassuolo 
+            Torino FC vs Sassuolo
           </button>
           <Link href="/games/torino-fc-vs-sassuolo-stream-1"><a type="button" className="list-group-item list-group-item-action">Link 1</a></Link>
           <Link href="/games/torino-fc-vs-sassuolo-stream-2"><a type="button" className="list-group-item list-group-item-action">Link 2</a></Link>
           <Link href="/games/torino-fc-vs-sassuolo-stream-3"><a type="button" className="list-group-item list-group-item-action">Link 3</a></Link>
-        </div>
+        </div> */}
 
 
       </main>
