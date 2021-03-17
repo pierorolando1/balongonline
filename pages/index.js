@@ -1,7 +1,61 @@
 import Head from 'next/head'
+import { useEffect, useState } from 'react'
 import styles from '../styles/Home.module.css'
+import Link from 'next/link'
+
 
 export default function Home() {
+
+  const [partidos, setPartidos] = useState(
+    [
+      {
+        "titulo": "Madrid Vs Porto",
+        "links": [
+          {
+            "link1" : "hola.adsda/DASdasd",
+          },
+          {
+            "link2" : "hola.adsda/DASdasd",
+          },
+          {
+            "link3" : "hola.adsda/DASdasd",
+          },
+        ]
+      },
+
+      {
+        "titulo": "Madrid Vs Porto",
+        "links": [
+          {
+            "link1" : "hola.adsda/DASdasd",
+          },
+          {
+            "link2" : "hola.adsda/DASdasd",
+          },
+          {
+            "link3" : "hola.adsda/DASdasd",
+          },
+        ]
+      },
+
+      {
+        "titulo": "Madrid Vs Porto",
+        "links": [
+          {
+            "link1" : "hola.adsda/DASdasd",
+          },
+          {
+            "link2" : "hola.adsda/DASdasd",
+          },
+          {
+            "link3" : "hola.adsda/DASdasd",
+          },
+        ]
+      },
+
+  ]
+  )
+
   return (
     <div className={styles.container}>
       <Head>
@@ -14,18 +68,28 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main style={{ width: '100%', height: '100vh', padding: '0' }}>
+      <main style={{ width: '100%', height: '100vh', padding: '5%' }}>
         {/* <iframe style={{margin: 'auto'}} height="720" width="1280" className="embed-responsive-item" src='https://embedstream.me/real-madrid-vs-atalanta-bc-stream-3' allowFullScreen ></iframe> */}
-        
+
+
         <div class="list-group">
           <button type="button" class="list-group-item list-group-item-action active">
-            Real Madrid vs Atalanta
+          Chelsea vs Atletico de Madrid 
           </button>
-          <a href="/games/real-madrid-vs-atalanta-bc-stream-1" type="button" className="list-group-item list-group-item-action">Link 1</a>
-          <a href="/games/real-madrid-vs-atalanta-bc-stream-2" type="button" className="list-group-item list-group-item-action">Link 2</a>
-          <a href="/games/real-madrid-vs-atalanta-bc-stream-3" type="button" className="list-group-item list-group-item-action">Link 3</a>
+          <Link href="/games/chelsea-vs-atletico-de-madrid-stream-1"><a type="button" className="list-group-item list-group-item-action">Liink</a></Link>
+          <Link href="/games/chelsea-vs-atletico-de-madrid-stream-2"><a type="button" className="list-group-item list-group-item-action">Liink</a></Link>
+          <Link href="/games/chelsea-vs-atletico-de-madrid-stream-3"><a type="button" className="list-group-item list-group-item-action">Liink</a></Link>
         </div>
-      
+
+        <div class="list-group">
+          <button type="button" class="list-group-item list-group-item-action active">
+          Bayern Munich vs Lazio 
+          </button>
+          <Link href="/games/bayern-munich-vs-ss-lazio-stream-1"><a type="button" className="list-group-item list-group-item-action">Link 1</a></Link>
+          <Link href="/games/bayern-munich-vs-ss-lazio-stream-2"><a type="button" className="list-group-item list-group-item-action">Link 2</a></Link>
+          <Link href="/games/bayern-munich-vs-ss-lazio-stream-3"><a type="button" className="list-group-item list-group-item-action">Link 3</a></Link>
+        </div>
+
       </main>
 
     </div>
