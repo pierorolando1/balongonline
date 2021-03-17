@@ -81,7 +81,7 @@ export default function Home() {
           <Link href="/games/chelsea-vs-atletico-de-madrid-stream-3"><a type="button" className="list-group-item list-group-item-action">Liink</a></Link>
         </div>
 
-        <div class="list-group">
+        <div class="list-group mt-4">
           <button type="button" class="list-group-item list-group-item-action active">
           Bayern Munich vs Lazio 
           </button>
