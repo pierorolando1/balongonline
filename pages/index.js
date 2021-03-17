@@ -83,7 +83,7 @@ export default function Home() {
         {
           partidos.map(partido => {
             return (
-              <div className="list-group">
+              <div className="list-group mt-4">
                 <button type="button" className="list-group-item list-group-item-action active">
                   {partido.titulo}
                 </button>
@@ -91,7 +91,7 @@ export default function Home() {
                   partido.links.map((link, i) => {
                     return (
                       <>
-                        <Link href={ `${ '/games', link.link}` }><a type="button" className="list-group-item list-group-item-action">Link { i+1 }</a></Link>
+                        <Link href={ `${ '/games/' + link.link}` }><a type="button" className="list-group-item list-group-item-action">Link { i+1 }</a></Link>
                       </>
                     )
                   })
