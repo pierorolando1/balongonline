@@ -105,8 +105,8 @@ export default function Home() {
       title="Balong Online Futbol"
       description="Partidos en vivo de las grandes ligas y competiciones."
       openGraph={{
-        url: 'https://www.url.ie/a',
-        title: 'Open Graph Title',
+        url: 'https://balongonline.vercel.app',
+        title: 'Partidos en vivo',
         description: 'Partidos en vivo de las grandes ligas y competiciones',
         images: [
           {
