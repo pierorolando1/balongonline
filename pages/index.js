@@ -12,16 +12,16 @@ export default function Home() {
 
 
       {
-        "titulo": "Bayern vs Lazio",
+        "titulo": "Arsenal vs Olympiacos Piraeus",
         "links": [
           {
-            "link": "bayern-munich-vs-ss-lazio-stream-1",
+            "link": "arsenal-vs-olympiacos-piraeus-stream-1",
           },
           {
-            "link": "bayern-munich-vs-ss-lazio-stream-2",
+            "link": "arsenal-vs-olympiacos-piraeus-stream-2",
           },
           {
-            "link": "bayern-munich-vs-ss-lazio-stream-3",
+            "link": "arsenal-vs-olympiacos-piraeus-stream-3",
           },
         ]
       },
@@ -30,16 +30,16 @@ export default function Home() {
 
 
       {
-        "titulo": "Chelsea vs Atletico de Madrid",
+        "titulo": "GNK Dinamo Zagreb vs Tottenham Hotspur ",
         "links": [
           {
-            "link": "chelsea-vs-atletico-de-madrid-stream-1",
+            "link": "gnk-dinamo-zagreb-vs-tottenham-hotspur-stream-1",
           },
           {
-            "link": "chelsea-vs-atletico-de-madrid-stream-2",
+            "link": "gnk-dinamo-zagreb-vs-tottenham-hotspur-stream-2",
           },
           {
-            "link": "chelsea-vs-atletico-de-madrid-stream-3",
+            "link": "gnk-dinamo-zagreb-vs-tottenham-hotspur-stream-3",
           },
         ]
       },
@@ -48,16 +48,47 @@ export default function Home() {
 
 
       {
-        "titulo": "Torino vs Sassuolo",
+        "titulo": "Molde FK vs Granada CF",
         "links": [
           {
-            "link": "torino-fc-vs-sassuolo-stream-1",
+            "link": "molde-fk-vs-granada-cf-stream-1",
           },
           {
-            "link": "torino-fc-vs-sassuolo-stream-2",
+            "link": "molde-fk-vs-granada-cf-stream-2",
           },
           {
-            "link": "torino-fc-vs-sassuolo-stream-3",
+            "link": "molde-fk-vs-granada-cf-stream-3",
+          },
+        ]
+      },
+
+
+      {
+        "titulo": "FC Shakhtar Donetsk vs AS Roma ",
+        "links": [
+          {
+            "link": "fc-shakhtar-donetsk-vs-as-roma-stream-1",
+          },
+          {
+            "link": "fc-shakhtar-donetsk-vs-as-roma-stream-2",
+          },
+          {
+            "link": "fc-shakhtar-donetsk-vs-as-roma-stream-3",
+          },
+        ]
+      },
+
+      {
+        "titulo": "AC Milan vs Manchester United",
+        "links": [
+          {
+            "link": "ac-milan-vs-manchester-united-stream-1",
+          },
+          {
+            "link": "ac-milan-vs-manchester-united-stream-2",
+          },
+          {
+            "link": "ac-milan-vs-manchester-united-stream-3",
           },
         ]
       },
