@@ -12,7 +12,7 @@ export default function Home() {
 
 
       {
-        "titulo": "Arsenal vs Olympiacos Piraeus (Todavia no empieza)",
+        "titulo": "Arsenal vs Olympiacos Piraeus",
         "links": [
           {
             "link": "arsenal-vs-olympiacos-piraeus-stream-1",
@@ -30,7 +30,7 @@ export default function Home() {
 
 
       {
-        "titulo": "GNK Dinamo Zagreb vs Tottenham Hotspur (Todavia no empieza)",
+        "titulo": "GNK Dinamo Zagreb vs Tottenham Hotspur",
         "links": [
           {
             "link": "gnk-dinamo-zagreb-vs-tottenham-hotspur-stream-1",
@@ -48,7 +48,7 @@ export default function Home() {
 
 
       {
-        "titulo": "Molde FK vs Granada CF (Todavia no empieza)",
+        "titulo": "Molde FK vs Granada CF",
         "links": [
           {
             "link": "molde-fk-vs-granada-cf-stream-1",
@@ -64,7 +64,7 @@ export default function Home() {
 
 
       {
-        "titulo": "FC Shakhtar Donetsk vs AS Roma (Todavia no empieza)",
+        "titulo": "FC Shakhtar Donetsk vs AS Roma",
         "links": [
           {
             "link": "fc-shakhtar-donetsk-vs-as-roma-stream-1",
@@ -79,7 +79,7 @@ export default function Home() {
       },
 
       {
-        "titulo": "AC Milan vs Manchester United (Todavia no empieza)",
+        "titulo": "AC Milan vs Manchester United",
         "links": [
           {
             "link": "ac-milan-vs-manchester-united-stream-1",
@@ -115,7 +115,7 @@ export default function Home() {
       },
 
       {
-        "titulo": "Carlos Mannucci vs FBC Melgar (Todavia no empieza)",
+        "titulo": "Carlos Mannucci vs FBC Melgar",
         "links": [
           {
             "link": "carlos-mannucci-vs-fbc-melgar-stream-1",
