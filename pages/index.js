@@ -12,16 +12,16 @@ export default function Home() {
 
 
       {
-        "titulo": "Arsenal vs Olympiacos Piraeus",
+        "titulo": "Athletic Bilbao vs Sociedad Deportiva Eibar",
         "links": [
           {
-            "link": "arsenal-vs-olympiacos-piraeus-stream-1",
+            "link": "athletic-bilbao-vs-sociedad-deportiva-eibar-stream-1",
           },
           {
-            "link": "arsenal-vs-olympiacos-piraeus-stream-2",
+            "link": "athletic-bilbao-vs-sociedad-deportiva-eibar-stream-2",
           },
           {
-            "link": "arsenal-vs-olympiacos-piraeus-stream-3",
+            "link": "athletic-bilbao-vs-sociedad-deportiva-eibar-stream-3",
           },
         ]
       },
@@ -30,16 +30,16 @@ export default function Home() {
 
 
       {
-        "titulo": "GNK Dinamo Zagreb vs Tottenham Hotspur",
+        "titulo": "FC Crotone vs Bologna FC",
         "links": [
           {
-            "link": "gnk-dinamo-zagreb-vs-tottenham-hotspur-stream-1",
+            "link": "fc-crotone-vs-bologna-fc-stream-1",
           },
           {
-            "link": "gnk-dinamo-zagreb-vs-tottenham-hotspur-stream-2",
+            "link": "fc-crotone-vs-bologna-fc-stream-2",
           },
           {
-            "link": "gnk-dinamo-zagreb-vs-tottenham-hotspur-stream-3",
+            "link": "fc-crotone-vs-bologna-fc-stream-3",
           },
         ]
       },
@@ -48,16 +48,16 @@ export default function Home() {
 
 
       {
-        "titulo": "Molde FK vs Granada CF",
+        "titulo": "Carlos Stein vs Dep. Municipal",
         "links": [
           {
-            "link": "molde-fk-vs-granada-cf-stream-1",
+            "link": "carlos-stein-vs-dep-municipal-stream-1",
           },
           {
-            "link": "molde-fk-vs-granada-cf-stream-2",
+            "link": "carlos-stein-vs-dep-municipal-stream-2",
           },
           {
-            "link": "molde-fk-vs-granada-cf-stream-3",
+            "link": "carlos-stein-vs-dep-municipal-stream-3",
           },
         ]
       },
@@ -79,37 +79,34 @@ export default function Home() {
       },
 
       {
-        "titulo": "AC Milan vs Manchester United",
+        "titulo": "Celta de Vigo vs Real Madrid",
         "links": [
           {
-            "link": "ac-milan-vs-manchester-united-stream-1",
+            "link": "celta-de-vigo-vs-real-madrid-stream-1",
           },
           {
-            "link": "ac-milan-vs-manchester-united-stream-2",
+            "link": "celta-de-vigo-vs-real-madrid-stream-2",
           },
           {
-            "link": "ac-milan-vs-manchester-united-stream-3",
+            "link": "celta-de-vigo-vs-real-madrid-stream-3",
           },
           {
-            "link": "ac-milan-vs-manchester-united-stream-4",
+            "link": "celta-de-vigo-vs-real-madrid-stream-4",
           },
           {
-            "link": "ac-milan-vs-manchester-united-stream-5",
+            "link": "celta-de-vigo-vs-real-madrid-stream-5",
           },
           {
-            "link": "ac-milan-vs-manchester-united-stream-6",
+            "link": "celta-de-vigo-vs-real-madrid-stream-6",
           },
           {
-            "link": "ac-milan-vs-manchester-united-stream-7",
+            "link": "celta-de-vigo-vs-real-madrid-stream-7",
           },
           {
-            "link": "ac-milan-vs-manchester-united-stream-8",
+            "link": "celta-de-vigo-vs-real-madrid-stream-8",
           },
           {
-            "link": "ac-milan-vs-manchester-united-stream-9",
-          },
-          {
-            "link": "ac-milan-vs-manchester-united-stream-10",
+            "link": "celta-de-vigo-vs-real-madrid-stream-9",
           },
         ]
       },
