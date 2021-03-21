@@ -12,17 +12,23 @@ export default function Home() {
 
 
       {
-        "titulo": "Athletic Bilbao vs Sociedad Deportiva Eibar",
+        "titulo": "Real Sociedad vs FC Barcelona",
         "links": [
           {
-            "link": "athletic-bilbao-vs-sociedad-deportiva-eibar-stream-1",
+            "link": "real-sociedad-vs-fc-barcelona-stream-1",
           },
           {
-            "link": "athletic-bilbao-vs-sociedad-deportiva-eibar-stream-2",
+            "link": "real-sociedad-vs-fc-barcelona-stream-2",
           },
           {
-            "link": "athletic-bilbao-vs-sociedad-deportiva-eibar-stream-3",
+            "link": "real-sociedad-vs-fc-barcelona-stream-3",
           },
+          {
+            "link": "real-sociedad-vs-fc-barcelona-stream-4"
+          },
+          {
+            "link": "real-sociedad-vs-fc-barcelona-stream-5"
+          }
         ]
       },
 
