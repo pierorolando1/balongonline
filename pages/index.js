@@ -12,23 +12,14 @@ export default function Home() {
 
 
       {
-        "titulo": "Real Sociedad vs FC Barcelona",
+        "titulo": "Cajamarca vs Manucci",
         "links": [
           {
-            "link": "real-sociedad-vs-fc-barcelona-stream-1",
+            "link": "cajamarca-vs-carlos-mannucci-stream-1",
           },
           {
-            "link": "real-sociedad-vs-fc-barcelona-stream-2",
+            "link": "cajamarca-vs-carlos-mannucci-stream-2",
           },
-          {
-            "link": "real-sociedad-vs-fc-barcelona-stream-3",
-          },
-          {
-            "link": "real-sociedad-vs-fc-barcelona-stream-4"
-          },
-          {
-            "link": "real-sociedad-vs-fc-barcelona-stream-5"
-          }
         ]
       },
 
@@ -36,16 +27,16 @@ export default function Home() {
 
 
       {
-        "titulo": "FC Crotone vs Bologna FC",
+        "titulo": "FCB Melgar vs melgar",
         "links": [
           {
-            "link": "fc-crotone-vs-bologna-fc-stream-1",
+            "link": "fc-melgar-vs-melgar-stream-1",
           },
           {
-            "link": "fc-crotone-vs-bologna-fc-stream-2",
+            "link": "fc-melgar-vs-melgar-stream-2",
           },
           {
-            "link": "fc-crotone-vs-bologna-fc-stream-3",
+            "link": "fc-melgar-vs-melgar-stream-3",
           },
         ]
       },
