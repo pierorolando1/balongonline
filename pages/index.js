@@ -12,13 +12,13 @@ export default function Home() {
 
 
       {
-        "titulo": "Cajamarca vs Manucci",
+        "titulo": "CSA vs Bahia",
         "links": [
           {
-            "link": "cajamarca-vs-carlos-mannucci-stream-1",
+            "link": "csa-vs-bahia-stream-1",
           },
           {
-            "link": "cajamarca-vs-carlos-mannucci-stream-2",
+            "link": "csa-vs-bahia-stream-2",
           },
         ]
       },
