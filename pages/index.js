@@ -12,13 +12,13 @@ export default function Home() {
 
 
       {
-        "titulo": "CSA vs Bahia",
+        "titulo": "Zambia vs Argelia",
         "links": [
           {
-            "link": "csa-vs-bahia-stream-1",
+            "link": "zambia-vs-argelia-stream-1",
           },
           {
-            "link": "csa-vs-bahia-stream-2",
+            "link": "zambia-vs-argelia-stream-2",
           },
         ]
       },
@@ -27,16 +27,16 @@ export default function Home() {
 
 
       {
-        "titulo": "FCB Melgar vs melgar",
+        "titulo": "England vs San Marino",
         "links": [
           {
-            "link": "fc-melgar-vs-melgar-stream-1",
+            "link": "england-vs-san-marino-stream-1",
           },
           {
-            "link": "fc-melgar-vs-melgar-stream-2",
+            "link": "england-vs-san-marino-stream-2",
           },
           {
-            "link": "fc-melgar-vs-melgar-stream-3",
+            "link": "england-vs-san-marino-stream-3",
           },
         ]
       },
@@ -45,89 +45,68 @@ export default function Home() {
 
 
       {
-        "titulo": "Carlos Stein vs Dep. Municipal",
+        "titulo": "Germany vs Iceland",
         "links": [
           {
-            "link": "carlos-stein-vs-dep-municipal-stream-1",
+            "link": "germany-vs-iceland-stream-1",
           },
           {
-            "link": "carlos-stein-vs-dep-municipal-stream-2",
+            "link": "germany-vs-iceland-stream-2",
           },
           {
-            "link": "carlos-stein-vs-dep-municipal-stream-3",
+            "link": "germany-vs-iceland-stream-3",
           },
         ]
       },
 
 
       {
-        "titulo": "FC Shakhtar Donetsk vs AS Roma",
+        "titulo": "Hungary vs Poland",
         "links": [
           {
-            "link": "fc-shakhtar-donetsk-vs-as-roma-stream-1",
+            "link": "hungary-vs-poland-stream-1",
           },
           {
-            "link": "fc-shakhtar-donetsk-vs-as-roma-stream-2",
+            "link": "hungary-vs-poland-stream-2",
           },
           {
-            "link": "fc-shakhtar-donetsk-vs-as-roma-stream-3",
+            "link": "hungary-vs-poland-stream-3",
           },
         ]
       },
 
       {
-        "titulo": "Celta de Vigo vs Real Madrid",
+        "titulo": "Spain vs Greece",
         "links": [
           {
-            "link": "celta-de-vigo-vs-real-madrid-stream-1",
+            "link": "spain-vs-greece-stream-1",
           },
           {
-            "link": "celta-de-vigo-vs-real-madrid-stream-2",
+            "link": "spain-vs-greece-stream-2",
           },
           {
-            "link": "celta-de-vigo-vs-real-madrid-stream-3",
+            "link": "spain-vs-greece-stream-3",
           },
           {
-            "link": "celta-de-vigo-vs-real-madrid-stream-4",
-          },
-          {
-            "link": "celta-de-vigo-vs-real-madrid-stream-5",
-          },
-          {
-            "link": "celta-de-vigo-vs-real-madrid-stream-6",
-          },
-          {
-            "link": "celta-de-vigo-vs-real-madrid-stream-7",
-          },
-          {
-            "link": "celta-de-vigo-vs-real-madrid-stream-8",
-          },
-          {
-            "link": "celta-de-vigo-vs-real-madrid-stream-9",
+            "link": "spain-vs-greece-stream-4",
           },
         ]
       },
 
       {
-        "titulo": "Carlos Mannucci vs FBC Melgar",
+        "titulo": "Sweden vs Georgia",
         "links": [
           {
-            "link": "carlos-mannucci-vs-fbc-melgar-stream-1",
+            "link": "sweden-vs-georgia-stream-1",
           },
           {
-            "link": "carlos-mannucci-vs-fbc-melgar-stream-2",
+            "link": "sweden-vs-georgia-stream-2",
           },
           {
-            "link": "carlos-mannucci-vs-fbc-melgar-stream-3",
+            "link": "sweden-vs-georgia-stream-3",
           },
           {
-            "link": "carlos-mannucci-vs-fbc-melgar-stream-4",
-          },
-          {
-            "link": "carlos-mannucci-vs-fbc-melgar-stream-5",
-          },
-          {
-            "link": "carlos-mannucci-vs-fbc-melgar-stream-6",
+            "link": "sweden-vs-georgia-stream-4",
           },
         ]
       },
