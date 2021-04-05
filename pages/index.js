@@ -15,10 +15,10 @@ export default function Home() {
         "titulo": "Barza vs Valladolid",
         "links": [
           {
-            "link": "barcelona-vs-valladolid-stream-1",
+            "link": "barcelona-fc-vs-real-valladolid-stream-1",
           },
           {
-            "link": "barcelona-vs-valladolid-stream-2",
+            "link": "barcelona-fc-vs-real-lladolid-stream-2",
           },
         ]
       },
