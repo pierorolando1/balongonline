@@ -18,7 +18,10 @@ export default function Home() {
             "link": "barcelona-fc-vs-real-valladolid-stream-1",
           },
           {
-            "link": "barcelona-fc-vs-real-lladolid-stream-2",
+            "link": "barcelona-fc-vs-real-valladolid-stream-2",
+          },
+          {
+            "link": "barcelona-fc-vs-real-valladolid-stream-3",
           },
         ]
       },
