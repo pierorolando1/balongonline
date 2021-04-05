@@ -12,13 +12,13 @@ export default function Home() {
 
 
       {
-        "titulo": "Zambia vs Argelia",
+        "titulo": "Barza vs Valladolid",
         "links": [
           {
-            "link": "zambia-vs-argelia-stream-1",
+            "link": "barcelona-vs-valladolid-stream-1",
           },
           {
-            "link": "zambia-vs-argelia-stream-2",
+            "link": "barcelona-vs-valladolid-stream-2",
           },
         ]
       },
