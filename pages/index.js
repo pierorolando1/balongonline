@@ -12,17 +12,20 @@ export default function Home() {
 
 
       {
-        "titulo": "Barza vs Valladolid",
+        "titulo": "Real Madrid vs Barcelona",
         "links": [
           {
-            "link": "barcelona-fc-vs-real-valladolid-stream-1",
+            "link": "real-madrid-vs-barcelona-fc-stream-1",
           },
           {
-            "link": "barcelona-fc-vs-real-valladolid-stream-2",
+            "link": "real-madrid-vs-barcelona-fc-stream-2",
           },
           {
-            "link": "barcelona-fc-vs-real-valladolid-stream-3",
+            "link": "real-madrid-vs-barcelona-fc-stream-3",
           },
+          {
+            "link": "real-madrid-vs-barcelona-fc-stream-4"
+          }
         ]
       },
 
