@@ -12,20 +12,35 @@ export default function Home() {
 
 
       {
-        "titulo": "Real Madrid vs Barcelona",
+        "titulo": "FC Barcelona vs Granada",
         "links": [
           {
-            "link": "real-madrid-vs-barcelona-fc-stream-1",
+            "link": "fc-barcelona-vs-granada-cf-stream-1",
           },
           {
-            "link": "real-madrid-vs-barcelona-fc-stream-2",
+            "link": "fc-barcelona-vs-granada-cf-stream-2",
           },
           {
-            "link": "real-madrid-vs-barcelona-fc-stream-3",
+            "link": "fc-barcelona-vs-granada-cf-stream-3",
           },
           {
-            "link": "real-madrid-vs-barcelona-fc-stream-4"
-          }
+            "link": "fc-barcelona-vs-granada-cf-stream-4",
+          },
+          {
+            "link": "fc-barcelona-vs-granada-cf-stream-5",
+          },
+          {
+            "link": "fc-barcelona-vs-granada-cf-stream-6",
+          },
+          {
+            "link": "fc-barcelona-vs-granada-cf-stream-7",
+          },
+          {
+            "link": "fc-barcelona-vs-granada-cf-stream-8",
+          },
+                    {
+            "link": "fc-barcelona-vs-granada-cf-stream-9",
+          },
         ]
       },
 
